@@ -21,4 +21,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: yifangyujason/go-chatgpt-api
+          tags: yifangyujason/go-chatgpt-api:legacy
