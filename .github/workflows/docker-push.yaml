@@ -1,4 +1,4 @@
-name: Docker build and push
+name: go-chatgpt-api:legacy
 
 on:
   push:
