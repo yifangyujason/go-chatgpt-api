@@ -9,7 +9,7 @@ import (
 const defaultErrorMessageKey = "errorMessage"
 
 const (
-	ChatGPTUrl         = "https://chat.openai.com/chat"
+	ChatGPTUrl         = "https://chat.openai.com/?model=gpt-4-gizmo"
 	ChatGPTWelcomeText = "Welcome to ChatGPT"
 	ChatGPTTitleText   = "ChatGPT"
 
